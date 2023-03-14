@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hasmin Grael</h1>
+<h1 align="center">Hi 👋, I'm Richard Stwart</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 </p>
 
@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Laravel, Vue.JS**
 
-- 📫 How to reach me **grahamin@gmail.com**
+- 📫 How to reach me **albertjong112@gmail.com**
 
 - 📄 Know about my experiences [I am Full Stack Developer with 4 Year’s experience in Professional Web Application, Full Stack Developer having over years experience in Website Development using PHP, Laravel, CodeIgniter, Cake PHP, Vue.JS, WordPress, Shopify and many more. I have creative thinking skills.](I am Full Stack Developer with 4 Year’s experience in Professional Web Application, Full Stack Developer having over years experience in Website Development using PHP, Laravel, CodeIgniter, Cake PHP, Vue.JS, WordPress, Shopify and many more. I have creative thinking skills.)
 
